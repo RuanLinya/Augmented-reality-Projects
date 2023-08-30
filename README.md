@@ -1,15 +1,10 @@
 # Can adding an audible signal showing the position of escape route signs get passengers to an exit faster? 
 
 
-## Motivation
+## WebXR- Meseum
 
-Signal presentation on multiple channels
-In other context e.g. airplane cockpits faster detection of warnings by visual & audio cue [3]
+![image](https://github.com/RuanLinya/Augmented-reality-Projects/assets/133128176/19bb14d7-6719-4b5a-820f-4c367b6d9478)
 
-- Transfer to escape route indication?
-- Faster detection by adding audio indication to the exiting signs
-- Finding the way faster?
-- Finding the closest exit?
 
 
 ##  Hypotheses
