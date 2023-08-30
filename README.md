@@ -25,7 +25,6 @@ https://youtu.be/XBQUJZpDeBs
 ## Contact
 E-mail: ruanlinya@gmail.com
 
-[3] Niermann, C. (2015). Multimodalität im Cockpit - Informationskanäle Überlagern und Ersetzen.
 
 
 
