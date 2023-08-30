@@ -7,69 +7,24 @@
 
 
 
-##  Hypotheses
-1.The average escape time is shorter if the escape route signs are equipped with an audio signal indicating the position of the signs.
+## AR Try on IOS
 
-2.The number of participants which use the closest escape route is higher if the escape route signs are equipped with an audio signal indicating the position of the signs.
+![image](https://github.com/RuanLinya/Augmented-reality-Projects/assets/133128176/c5e9c41a-dbd1-4f81-9a47-ea7777fcd3bb)
 
 
-##  Variables
--Independent Variable	
+![image](https://github.com/RuanLinya/Augmented-reality-Projects/assets/133128176/3fb92d15-8014-4a05-a6bf-13056398947a)
 
-escape route sign indication
 
-(1) visual escape route signs only 
-(2) visual escape route signs with audio signal indicating their position
+![image](https://github.com/RuanLinya/Augmented-reality-Projects/assets/133128176/a6fbba8b-2376-4951-847b-76722675cdc6)
 
-- Dependent Variables  
-average escape time [seconds]
-took the closest exit [boolean]
 
-- Statistics
-between-subject design  
-independent samples T-test
 
-## Implementation!
-- Software
-
-Unity 2020.3.3f1
-
-- Hardware
-
-HTC VIVE Pro with controllers
-locomotion by arm-swinging method
-standardised testing room
-standing only play-area
-looking around via head movement
-
-![image](https://github.com/RuanLinya/Escape-Route/assets/133128176/6e315dc2-9c98-4842-bd89-5330f683abe0)
-![image](https://github.com/RuanLinya/Escape-Route/assets/133128176/50ba5aed-5dd2-435d-81ef-c65bf8136dba)
-
-- VR-Setting
-office building with 4 emergency exits 
-
-escape route sign point to closest exit
-
-<img width="641" alt="image" src="https://github.com/RuanLinya/Escape-Route/assets/133128176/cef56c6f-0d2d-48fd-8260-2ad8261e6062">
-
-- Cover Story
-
-Participants enter through an exit that is not the closest exit 
-Test the arm-swinging method for locomotion in VR
-First get familiar then test it in a real life scenario
 
 ## Demo
 https://youtu.be/XBQUJZpDeBs
 
 ## Contact
 E-mail: ruanlinya@gmail.com
-
-## References
-
-
-[1] https://www.hilpress.com/en/Signs/Emergency-signs/Standard-Emergency-signs/HIL-SIGN-Escape-route-to-the-right-hard-PVC-400-x-200-mm.html
-
-[2] https://www.vive.com/eu/support/vive-pro-hmd/category_howto/setting-up-standing-only-play-area.html
 
 [3] Niermann, C. (2015). Multimodalität im Cockpit - Informationskanäle Überlagern und Ersetzen.
 
