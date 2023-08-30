@@ -5,8 +5,6 @@
 
 ![image](https://github.com/RuanLinya/Augmented-reality-Projects/assets/133128176/19bb14d7-6719-4b5a-820f-4c367b6d9478)
 
-![image](https://github.com/RuanLinya/Augmented-reality-Projects/assets/133128176/c93c6e30-b9a4-4edc-9a75-3bb1d7803a9a)
-
 
 ## AR Try on IOS
 
