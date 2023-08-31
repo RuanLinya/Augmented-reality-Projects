@@ -17,11 +17,6 @@
 ![image](https://github.com/RuanLinya/Augmented-reality-Projects/assets/133128176/a6fbba8b-2376-4951-847b-76722675cdc6)
 
 
-
-
-## Demo
-https://youtu.be/XBQUJZpDeBs
-
 ## Contact
 E-mail: ruanlinya@gmail.com
 
